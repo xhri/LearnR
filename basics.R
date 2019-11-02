@@ -6,11 +6,16 @@ bp = read.csv("BP.csv")
 head(bp)
 summary(bp)
 plot(bp)
-
-
 ?plot
 
-plot(bp$systolic)
+plot(bp$time_of_day, bp$systolic)
+
+?factor
+
+bp$time_of_day_sorted <- factor(bp$time_of_day, c("morning", "midday", "evening"))
+plot(bp$time_of_day_sorted, bp$systolic)
+
+
 ?median
 
 median(bp$systolic)
