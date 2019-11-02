@@ -28,4 +28,25 @@ date,time_of_day,hour,systolic,diastolic
 28.10,evening,22,134,65
 29.10,morning,8,137,73
 29.10,morning,8,135,78
+29.10,evening,20,141,70
+29.10,evening,20,135,69
+29.10,evening,20,138,69
+29.10,evening,24,138,72
+30.10,morning,8,141,73
+30.10,morning,8,145,73
+30.10,morning,8,136,73
+30.10,midday,17,148,76
+30.10,midday,17,141,75
+30.10,midday,17,135,71
+30.10,evening,20,133,71
+30.10,evening,20,137,77
+31.10,morning,7,132,71
+31.10,morning,7,129,75
+31.10,evening,20,138,63
+31.10,evening,20,138,63
+01.11,morning,10,130,71
+01.11,morning,10,129,73
+01.11,midday,16,134,70
+02.11,morning,9,132,82
+02.11,morning,9,130,73
 
