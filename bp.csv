@@ -49,4 +49,12 @@ date,time_of_day,hour,systolic,diastolic
 01.11,midday,16,134,70
 02.11,morning,9,132,82
 02.11,morning,9,130,73
-
+02.11,midday,17,151,85
+02.11,midday,17,148,86
+02.11,evening,20,140,77
+02.11,evening,20,150,79
+03.11,morning,8,145,81
+03.11,morning,8,134,74
+03.11,morning,8,139,75
+04.11,morning,8,146,77
+04.11,morning,8,145,82
